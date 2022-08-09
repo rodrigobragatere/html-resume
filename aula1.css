@@ -1,0 +1,14 @@
+
+h1 {
+color:#CC3299;
+text-decoration:underline;
+text-transform: uppercase }
+
+h2 { color: #FF0000;
+text-decoration: line-through;
+text-transform: none}
+
+p {
+text-indent: 1cm;
+line-height: 20px;
+text-align: left}
